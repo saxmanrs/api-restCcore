@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RMpsDBna3P29WaTVBTP7FYm2Ds1CjcXtKXYZOh6xTXbQb8KbJj6VoUzxGB92Aja7YOSxvhxpcVpXOImm/2t6qQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrador\\Documents\\api_rest\\api-restCcore\\ApirRest_course\\ApirRest_course\\ApirRest_course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrador\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.8\\microsoft.visualstudio.azure.containers.tools.targets.1.10.8.nupkg.sha512"
+  ],
+  "logs": []
+}
